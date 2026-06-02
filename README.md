@@ -92,9 +92,11 @@ Generated datasets:
 
 ## 📁 Project Structure
 
-images/ → workflow screenshots
-data/   → dataset information
-docs/   → project explanation
+enterprise-data-pipeline-alteryx/
+│── images/   → workflow screenshots
+│── data/     → dataset information
+│── docs/     → project explanation
+│── README.md
 
 ---
 
