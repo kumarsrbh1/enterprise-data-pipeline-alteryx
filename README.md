@@ -1,24 +1,24 @@
 # 📊 Enterprise Data Pipeline using Alteryx
 
-🚀 Designed and built a structured ETL pipeline using **Alteryx** to integrate, transform, and analyze multi-source business data.
+🚀 Built a structured ETL pipeline using **Alteryx** to integrate, transform, and analyze multi-source business data.
 
 ---
 
 ## 🎯 Objective
 
-Build a scalable data pipeline to:
+Design a scalable data pipeline to:
 
-- Combine data from multiple sources  
+- Integrate multiple datasets  
 - Apply business transformations  
-- Generate insights for decision-making  
+- Generate meaningful insights  
 
 ---
 
-## 🛠️ Tools & Techniques
+## 🛠️ Tools Used
 
 - Alteryx Designer  
 - Data Cleaning & Transformation  
-- Multi-table Joins  
+- Join Operations  
 - Aggregation & Filtering  
 
 ---
@@ -35,12 +35,12 @@ images/workflow_overview.png
 
 ---
 
-## 🔗 Data Integration Layer
+## 🔗 Data Integration (Joins)
 
 images/data_integration_joins.png
 
-- Integrated multiple datasets using sequential joins
-- Built a unified data model
+- Sequential joins across multiple datasets  
+- Built unified data pipeline  
 
 ---
 
@@ -48,7 +48,7 @@ images/data_integration_joins.png
 
 images/transformations_layer.png
 
-Applied business logic:
+Created business metrics:
 
 - Revenue = UnitPrice × Quantity  
 - Discount = UnitPrice × Quantity × Discount  
@@ -60,11 +60,11 @@ Applied business logic:
 
 images/aggregation_insights.png
 
-Generated key insights:
+Generated insights:
 
 - Category-level sales performance  
 - Country-level sales distribution  
-- Top customer ranking  
+- Top 10 customers  
 
 ---
 
@@ -72,7 +72,7 @@ Generated key insights:
 
 images/output_layer.png
 
-Generated analytics-ready datasets:
+Generated datasets:
 
 - category_sales_summary.csv  
 - country_sales_summary.csv  
@@ -82,18 +82,17 @@ Generated analytics-ready datasets:
 
 ## 📁 Project Structure
 
-
 images/ → workflow screenshots
-data/   → dataset details
+data/   → dataset information
 docs/   → project explanation
 
 ---
 
 ## ⚠️ Note
 
-The workflow file (.yxmd) is not included due to system restrictions.
+The Alteryx workflow file (.yxmd) is not included due to system restrictions.
 
-Screenshots and documentation represent the complete pipeline.
+Screenshots and documentation fully represent the workflow.
 
 ---
 
@@ -103,25 +102,25 @@ Screenshots and documentation represent the complete pipeline.
 - ✅ Multi-source data integration  
 - ✅ Business metric creation  
 - ✅ Insight generation  
-- ✅ Production-style output datasets  
+- ✅ Production-style output  
 
 ---
 
 ## 🧠 What This Project Demonstrates
 
-- Data Engineering (ETL pipeline design)  
-- Data Transformation & Cleaning  
-- Analytical thinking  
-- Alteryx expertise  
+- Data Engineering (ETL pipelines)  
+- Data Transformation  
+- Analytical Thinking  
+- Alteryx Expertise  
 
 ---
 
 ## 🔮 Future Improvements
 
 - Cloud integration (Azure)  
-- Workflow automation  
-- Dashboard integration (Power BI)  
+- Scheduled automation  
+- Integration with Power BI dashboards  
 
 ---
 
-⭐ If you found this useful, feel free to star the repo!
+⭐ If you found this useful, consider starring the repository!
