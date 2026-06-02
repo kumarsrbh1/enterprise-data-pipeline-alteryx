@@ -12,6 +12,16 @@ Design a scalable data pipeline to:
 - Apply business transformations  
 - Generate meaningful insights  
 
+This pipeline simulates a retail business scenario where sales data from multiple sources is integrated and analyzed to support decision-making.
+
+---
+
+## 📌 Business Value
+
+- Identifies top-performing categories and regions  
+- Highlights high-value customers  
+- Enables data-driven decision-making
+
 ---
 
 ## 🛠️ Tools Used
