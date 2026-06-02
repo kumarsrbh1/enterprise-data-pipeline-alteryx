@@ -1,8 +1,8 @@
 # 📂 Dataset Information
 
-This project uses a structured relational dataset representing a retail business.
+This project uses a structured relational dataset representing a retail business scenario.
 
-## Tables Used
+## 🗃️ Tables Used
 
 - Customers
 - Orders
@@ -10,14 +10,36 @@ This project uses a structured relational dataset representing a retail business
 - Products
 - Categories
 
-## Purpose
+---
 
-These datasets are used to demonstrate:
+## 📥 Dataset Source
 
-- Multi-table joins
-- Data integration
-- ETL pipeline design
+This project is based on the widely used **Northwind dataset**, which can be downloaded from:
 
-## Note
+- https://github.com/jpwhite3/northwind-SQLite3  
+- https://github.com/dalers/mywind 
 
-Dataset is publicly available and commonly used for analytics and data engineering practice.
+---
+
+## 🧠 About Dataset
+
+The Northwind dataset simulates a real-world business environment, including:
+
+- Customer data  
+- Orders and transactions  
+- Product catalog  
+- Category classification  
+
+It is commonly used for:
+
+- Data analysis  
+- ETL pipeline development  
+- SQL and BI practice  
+
+---
+
+## ⚠️ Note
+
+- Dataset is publicly available  
+- Not included in this repository  
+- Used only for demonstration of ETL workflow  
