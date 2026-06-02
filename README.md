@@ -31,13 +31,13 @@ Input → Data Integration → Transformation → Aggregation → Output
 
 ## 📷 Workflow Overview
 
-images/workflow_overview.png
+![Workflow Overview](images/workflow_overview.png)
 
 ---
 
 ## 🔗 Data Integration (Joins)
 
-images/data_integration_joins.png
+![Data Integration](images/data_integration_joins.png)
 
 - Sequential joins across multiple datasets  
 - Built unified data pipeline  
@@ -46,7 +46,7 @@ images/data_integration_joins.png
 
 ## 🧮 Transformation Layer
 
-images/transformations_layer.png
+![Transformation Layer](images/transformations_layer.png)
 
 Created business metrics:
 
@@ -58,7 +58,7 @@ Created business metrics:
 
 ## 📊 Aggregation & Insights
 
-images/aggregation_insights.png
+![Aggregation Insights](images/aggregation_insights.png)
 
 Generated insights:
 
@@ -70,7 +70,7 @@ Generated insights:
 
 ## 📤 Output Layer
 
-images/output_layer.png
+![Output Layer](images/output_layer.png)
 
 Generated datasets:
 
